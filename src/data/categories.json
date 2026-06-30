@@ -1,0 +1,56 @@
+﻿[
+  {
+    "id": "codex-skills",
+    "name_en": "Codex Skills",
+    "name_zh": "Codex 技能",
+    "icon": "⚡",
+    "description_en": "Skills for OpenAI Codex CLI",
+    "description_zh": "OpenAI Codex CLI 技能",
+    "queries": ["codex skill", "SKILL.md codex", "codex agent skill"]
+  },
+  {
+    "id": "mcp-servers",
+    "name_en": "MCP Servers",
+    "name_zh": "MCP 服务器",
+    "icon": "🔌",
+    "description_en": "Model Context Protocol servers for Claude",
+    "description_zh": "Claude 模型上下文协议服务器",
+    "queries": ["mcp server", "model context protocol", "mcp server claude"]
+  },
+  {
+    "id": "langchain",
+    "name_en": "LangChain",
+    "name_zh": "LangChain 生态",
+    "icon": "🦜",
+    "description_en": "LangChain agents, tools, and frameworks",
+    "description_zh": "LangChain 代理、工具和框架",
+    "queries": ["langchain agent", "langchain tools", "langchain framework"]
+  },
+  {
+    "id": "autogpt",
+    "name_en": "AutoGPT / CrewAI",
+    "name_zh": "AutoGPT / CrewAI",
+    "icon": "🤖",
+    "description_en": "AutoGPT plugins, CrewAI tools and agents",
+    "description_zh": "AutoGPT 插件、CrewAI 工具和代理",
+    "queries": ["autogpt plugin", "crewai tool", "autogpt agent"]
+  },
+  {
+    "id": "ai-tools",
+    "name_en": "AI Tools",
+    "name_zh": "AI 工具",
+    "icon": "🛠️",
+    "description_en": "General AI tools and utilities",
+    "description_zh": "通用 AI 工具和实用程序",
+    "queries": ["ai agent framework", "ai tools", "llm agent"]
+  },
+  {
+    "id": "dify",
+    "name_en": "Dify",
+    "name_zh": "Dify 平台",
+    "icon": "💎",
+    "description_en": "Dify workflow apps and plugins",
+    "description_zh": "Dify 工作流应用和插件",
+    "queries": ["dify workflow", "dify plugin", "dify app"]
+  }
+]
