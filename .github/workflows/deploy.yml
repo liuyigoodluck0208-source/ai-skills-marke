@@ -3,6 +3,8 @@ name: Deploy to GitHub Pages
 on:
   push:
     branches: [main, master]
+  schedule:
+    - cron: '0 6 * * *'
   workflow_dispatch:
 
 permissions:
@@ -26,6 +28,10 @@ jobs:
           cache: 'npm'
       - name: Install dependencies
         run: npm ci
+      - name: Fetch skills from GitHub
+        run: node scripts/fetch-skills.js
+        env:
+          GITHUB_TOKEN: ${{ secrets.liuyi }}
       - name: Build
         run: npm run build
         env:
