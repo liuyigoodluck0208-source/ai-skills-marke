@@ -1,0 +1,80 @@
+{
+  "meta": {
+    "title": "AI Skills & Agents Market",
+    "description": "Discover, search, and install the latest AI skills, agents, and tools across Codex, Claude, LangChain, and more."
+  },
+  "nav": {
+    "home": "Home",
+    "skills": "Browse",
+    "categories": "Categories",
+    "favorites": "Favorites",
+    "about": "About",
+    "search_placeholder": "Search skills, agents, tools...",
+    "github": "GitHub",
+    "back": "Back"
+  },
+  "hero": {
+    "title": "AI Skills & Agents",
+    "subtitle": "Discover and install the latest AI skills, agents, and tools. One-click copy, ready to use.",
+    "search_placeholder": "Search across {count}+ skills and agents...",
+    "stats_skills": "Skills & Agents",
+    "stats_categories": "Categories",
+    "stats_platforms": "Platforms",
+    "search_btn": "Search"
+  },
+  "categories": {
+    "title": "Categories",
+    "view_all": "View All",
+    "empty_title": "No skills in this category yet",
+    "empty_hint": "Check back soon for updates"
+  },
+  "featured": {
+    "title": "Featured",
+    "subtitle": "Hand-picked top skills and agents"
+  },
+  "latest": {
+    "title": "Latest Updates",
+    "subtitle": "Recently updated skills and agents"
+  },
+  "skills": {
+    "title": "Browse Skills",
+    "sort_newest": "Newest",
+    "sort_stars": "Most Stars",
+    "sort_favorites": "Most Favorited",
+    "filter_all": "All Platforms",
+    "no_results": "No skills found",
+    "try_different": "Try a different search term or filter",
+    "found": "{count} skills found"
+  },
+  "detail": {
+    "install": "Install",
+    "copy_command": "Copy Command",
+    "copied": "✓ Copied!",
+    "view_repo": "View Repository",
+    "stars": "Stars",
+    "license": "License",
+    "last_updated": "Last Updated",
+    "author": "Author",
+    "platform": "Platform",
+    "related": "Related Skills",
+    "rate_this": "Rate this skill",
+    "your_rating": "Your rating",
+    "skill_not_found": "Skill not found",
+    "back": "← Back to Browse",
+    "featured": "★ Featured",
+    "license_label": "License:",
+    "updated_label": "Updated:",
+    "install_label": "Install",
+    "back_home": "← Home"
+  },
+  "favorites": {
+    "title": "My Favorites",
+    "empty": "No favorites yet",
+    "add_hint": "Click the heart icon on any skill to add it here"
+  },
+  "footer": {
+    "description": "Open-source AI skills & agents marketplace. Zero cost, community driven.",
+    "built_with": "Built with Next.js",
+    "data_source": "Data from GitHub API"
+  }
+}

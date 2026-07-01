@@ -1,0 +1,80 @@
+{
+  "meta": {
+    "title": "AI 技能与代理市场",
+    "description": "发现、搜索和安装最新的 AI 技能、代理和工具，覆盖 Codex、Claude、LangChain 等平台。"
+  },
+  "nav": {
+    "home": "首页",
+    "skills": "浏览",
+    "categories": "分类",
+    "favorites": "收藏",
+    "about": "关于",
+    "search_placeholder": "搜索技能、代理、工具...",
+    "github": "GitHub",
+    "back": "返回"
+  },
+  "hero": {
+    "title": "AI 技能与代理市场",
+    "subtitle": "发现并安装最新的 AI 技能、代理和工具。一键复制，即刻使用。",
+    "search_placeholder": "搜索 {count}+ 个技能和代理...",
+    "stats_skills": "技能与代理",
+    "stats_categories": "分类",
+    "stats_platforms": "平台",
+    "search_btn": "搜索"
+  },
+  "categories": {
+    "title": "分类",
+    "view_all": "查看全部",
+    "empty_title": "该分类暂无技能",
+    "empty_hint": "敬请期待更新"
+  },
+  "featured": {
+    "title": "精选推荐",
+    "subtitle": "精心挑选的优质技能和代理"
+  },
+  "latest": {
+    "title": "最新更新",
+    "subtitle": "最近更新的技能和代理"
+  },
+  "skills": {
+    "title": "浏览技能",
+    "sort_newest": "最新",
+    "sort_stars": "最多星标",
+    "sort_favorites": "最多收藏",
+    "filter_all": "所有平台",
+    "no_results": "未找到相关技能",
+    "try_different": "尝试其他搜索词或筛选条件",
+    "found": "{count} 个技能"
+  },
+  "detail": {
+    "install": "安装",
+    "copy_command": "复制命令",
+    "copied": "✓ 已复制！",
+    "view_repo": "查看仓库",
+    "stars": "星标",
+    "license": "许可证",
+    "last_updated": "最后更新",
+    "author": "作者",
+    "platform": "平台",
+    "related": "相关技能",
+    "rate_this": "为此技能评分",
+    "your_rating": "你的评分",
+    "skill_not_found": "未找到该技能",
+    "back": "← 返回浏览",
+    "featured": "★ 精选",
+    "license_label": "许可证：",
+    "updated_label": "更新于：",
+    "install_label": "安装",
+    "back_home": "← 首页"
+  },
+  "favorites": {
+    "title": "我的收藏",
+    "empty": "暂无收藏",
+    "add_hint": "点击任意技能的心形图标即可添加到收藏"
+  },
+  "footer": {
+    "description": "开源 AI 技能与代理市场。零成本，社区驱动。",
+    "built_with": "使用 Next.js 构建",
+    "data_source": "数据来源于 GitHub API"
+  }
+}
